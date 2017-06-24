@@ -1,18 +1,18 @@
-# RESTful API Example with Spring Data REST and MySQL
+# RESTful API Example with Spring Boot, Spring Data REST and MySQL
 
 ## Guide
-http://hellokoding.com/jpa-one-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/
+https://github.com/hellokoding/restfulapi-springboot-springdatarest-mysql
 
 ## Prerequisites
-- JDK 1.8 or later
-- Maven 3 or later
-- MySQL 5.6 or later
+- JDK 1.7+
+- Maven 3+
+- MySQL 5.6+
 
 ## Stack
-- Spring Data JPA
 - Spring Boot
+- Spring Data JPA
+- Spring Data REST
 - MySQL
 
 ## Run
-`mvn spring-boot:run`
-
+`mvn clean spring-boot:run`
