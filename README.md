@@ -1,7 +1,7 @@
 # RESTful API Example with Spring Boot, Spring Data REST and MySQL
 
 ## Guide
-https://github.com/hellokoding/restfulapi-springboot-springdatarest-mysql
+https://hellokoding.com/restful-api-example-with-spring-boot-spring-data-rest-and-mysql/
 
 ## Prerequisites
 - JDK 1.7+
